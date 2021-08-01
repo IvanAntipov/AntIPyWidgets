@@ -1,8 +1,5 @@
 # AntIPyWidgets
 
->> alpha
->> doesn't work for JupyterLab because of issue with ipysheet. Currently works only for vs code. 
-
 My IPyWidgets
 
 # Installation
