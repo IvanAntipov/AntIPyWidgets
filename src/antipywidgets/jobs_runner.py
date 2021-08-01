@@ -1,4 +1,3 @@
-import ipysheet
 import ipywidgets as widgets
 from ipywidgets import Button, GridBox, Layout, ButtonStyle, VBox, HBox, Label, Valid, Textarea
 import traceback
